@@ -3,8 +3,8 @@ import { createClient } from "contentful";
 import useListActions from "./useListActions.js";
 
 const client = createClient({
-    space: "hpr0uushokd4",
-    accessToken: "jwEHepvQx-kMtO7_2ldjhE4WMAsiDp3t1xxBT8aDp7U",
+    space: "jbem5mn3le3x",
+    accessToken: "FhrIg0w28L4LCibB120nUZ8cUImWr7UESue-Y1dCjfk",
 });
 
 export default function useBlogs() {
